@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Cypress** and **Appium**
 
-- 💬 Ask me about **Functional testing, accessibility testing**
+- 💬 Ask me about **Functional** and **accessibility testing**
 
-- 📫 How to reach me **gabigrein@hotmail.com, gabygrein@gmail.com**
+- 📫 Contact me through **gabigrein@hotmail.com, gabygrein@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
