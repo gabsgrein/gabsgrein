@@ -1,20 +1,23 @@
-<h1 align="center">Hello World! I'm Gabriela 👋</h1>
-<h3 align="center">A junior QA from Brazil</h3>
+<h1 align='center'> Hello world! I'm Gabriela 👋</h1>
 
-- 🔭 I’m currently working on [AutoForce](https://site.autoforce.com/)
-
-- 🌱 I’m currently learning **Cypress**
-
-- 💬 Ask me about **Functional** and **accessibility testing**
+<p align='center'>
+  A junior QA with a passion for Scrum
+</p>
 <br>
 <br>
 
 
-### Connect with me
-[<img align="left" alt="Souarvdey777 | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />][instagram]
+<h3 align='center'> 💻 My workspace</h3>
+<p align='center'>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core i7 10th-0071C5.svg?style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
 <br>
 <br>
+
+
 
 
 ### Tech & Tools
@@ -34,6 +37,25 @@
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white">
+<br>
+<br>
+
+
+
+### Connect with me
+[<img align="left" alt="GabsGrein | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>][linkedin]
+[<img align="left" alt="GabsGrein | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />][instagram]
+<br>
+<br>
+
+
+### Contact me
+[<img align="left" alt="GabsGrein | LinkedIn" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white"/>][outlook]
+[<img align="left" alt="GabsGrein | Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />][gmail]
+
+
 
 [instagram]: https://www.instagram.com/gabsgrein/
 [linkedin]: https://www.linkedin.com/in/gabriela-grein-da-silva/
+[outlook]: mailto:gabigrein@hotmail.com
+[gmail]: mailto:gabygrein@gmail.com
