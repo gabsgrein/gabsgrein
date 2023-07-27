@@ -4,7 +4,6 @@
   A junior QA with a passion for Scrum
 </p>
 <br>
-<br>
 
 
 <h3 align='center'> 💻 My workspace</h3>
