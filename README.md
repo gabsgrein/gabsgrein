@@ -32,6 +32,8 @@
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white">
 
 [instagram]: https://www.instagram.com/gabsgrein/
 [linkedin]: https://www.linkedin.com/in/gabriela-grein-da-silva/
