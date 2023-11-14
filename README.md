@@ -1,7 +1,7 @@
 <h1 align='center'> Hello world! I'm Gabriela 👋</h1>
 
 <p align='center'>
-  A QA with a passion for Produc and Agile
+  A QA with a passion for Product and Agile
 </p>
 <br>
 
